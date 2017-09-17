@@ -1,0 +1,9 @@
+C:\Users\ADMIN\Desktop\Funny\Funny\bin\Debug\Funny.exe.config
+C:\Users\ADMIN\Desktop\Funny\Funny\bin\Debug\Funny.exe
+C:\Users\ADMIN\Desktop\Funny\Funny\bin\Debug\Funny.pdb
+C:\Users\ADMIN\Desktop\Funny\Funny\obj\Debug\Funny.csprojResolveAssemblyReference.cache
+C:\Users\ADMIN\Desktop\Funny\Funny\obj\Debug\Funny.Form1.resources
+C:\Users\ADMIN\Desktop\Funny\Funny\obj\Debug\Funny.Properties.Resources.resources
+C:\Users\ADMIN\Desktop\Funny\Funny\obj\Debug\Funny.csproj.GenerateResource.Cache
+C:\Users\ADMIN\Desktop\Funny\Funny\obj\Debug\Funny.exe
+C:\Users\ADMIN\Desktop\Funny\Funny\obj\Debug\Funny.pdb
